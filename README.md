@@ -1,6 +1,6 @@
 # sqliteJDBC
 
-My first experience with JDBC driver was not pleasant, although I went through multiple tutorials I found it tricky to install. Here is an example of how to access a sqlite files with JDBC, from past me to future me :D
+I found the JDBC driber tricky to install. Here is an example of how to access a sqlite files with JDBC, from past me to future me :D
 
 Steps I followed:
 1. Add "jdbc:sqlite:" in front of the path (see sqlite.java)
