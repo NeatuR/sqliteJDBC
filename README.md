@@ -6,3 +6,6 @@ Steps I followed:
 1. Add "jdbc:sqlite:" in front of the path (see sqlite.java)
 2. Add the dependecy in the pom file (see pom.xml) -- however this didn't seem to work
 3. Download the jar file and add it: File>Project Structure>Module> "+" > Apply
+
+
+Example dataset from http://2016.padjo.org/tutorials/sqlite-data-starterpacks/.
