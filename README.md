@@ -14,5 +14,5 @@ But why stop here? Using the org.json library, will iterate through each entry i
 
 How to import org.java to IntelliJ IDEA:
 1. Download the org.json library from https://github.com/stleary/JSON-java
-2. Go to Project Structure > Libraries > "+" > Select the jar file (in my case: json-20230618.jar) > Apply
+2. Go to File > Project Structure > Libraries > "+" > Select the jar file (in my case: json-20230618.jar) > Apply
 3. You're done!
